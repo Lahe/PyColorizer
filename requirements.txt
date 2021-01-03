@@ -1,0 +1,7 @@
+pyqt5==5.15.2
+pyqt5-tools
+numpy==1.19.3
+opencv-python-headless
+keras
+scikit-image
+tensorflow
