@@ -1,5 +1,7 @@
 # Image colorizer
 
+![](https://i.imgur.com/ukn5Vke.png)
+
 ### Installimise juhend
 
 
@@ -29,6 +31,8 @@
     Mudeli kaust peaks lõpuks välja nägema selline:  
     
     ![](https://i.imgur.com/AVYdiWF.png)
+
+1. Navigeeri tagasi projekti ülemkausta
 
 1. Installi vajalikud pakid.
     ```shell script
